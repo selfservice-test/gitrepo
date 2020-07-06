@@ -1,0 +1,33 @@
+Clone a repo:
+git clone https://github.com/selfservice-test/gitrepo.git
+
+
+
+Add a branch:
+git branch 'branch name'
+git checkout 'branch name'
+
+git add .
+
+git commit -m 'sdjfk'
+
+git push -u origin 'branchname'
+
+git checkout master
+
+git pull origin master
+
+git merge 'branch name'
+
+git puch origin master
+
+
+delete branch:
+
+git branch -d 'branch name'
+
+git branch (show status of bramch)
+
+git push origin --delete 'branch name'
+
+git branch 
