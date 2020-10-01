@@ -7,3 +7,5 @@ I There
 
 
 test file
+APP_KEY = lkjdlkjljkjkljklj
+APP_PASSWORD = thakur
